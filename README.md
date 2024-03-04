@@ -2,8 +2,10 @@ Two friends to be added as new files
 
 File to open
 
+### 1 ) .env.production
+
 ```
-1 ) .env.production
+
 
 VERSION=1.0.0
 MongoDBURI=mongodb+srv://cberen15:717235Cb.@wuubimedia.qfs2zro.mongodb.net/
