@@ -2,9 +2,8 @@
 
 $ npm install
 
-### serve with hot reload at localhost:3000
-
-$ npm run dev
+$ npm scripts
+start:test
 
 Two friends to be added as new files
 
