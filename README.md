@@ -1,8 +1,8 @@
-# install dependencies
+### install dependencies
 
 $ npm install
 
-# serve with hot reload at localhost:3000
+### serve with hot reload at localhost:3000
 
 $ npm run dev
 
@@ -10,7 +10,7 @@ Two friends to be added as new files
 
 File to open
 
-### 1 ) .env.production
+# 1 ) .env.production
 
 ```
 VERSION=1.0.0
@@ -24,7 +24,7 @@ SECRET_KEY=gnXPlAg6iVHqAPm8ZjNKO3xUQVFRGv+LHmbkNvhZ
 
 File to open
 
-### 2 ) .env.test
+# 2 ) .env.test
 
 ```
 VERSION=1.0.0
