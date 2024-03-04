@@ -5,8 +5,6 @@ File to open
 ### 1 ) .env.production
 
 ```
-
-
 VERSION=1.0.0
 MongoDBURI=mongodb+srv://cberen15:717235Cb.@wuubimedia.qfs2zro.mongodb.net/
 JWT_SECRET=JKZz1yPcIw2f3Y9W1U3B1
